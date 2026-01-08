@@ -6,7 +6,7 @@ Nandeenee Singh : I played the violin for 7 years (I was not good).
 __________________________________________________________________
 Aarav Raina : 
 
-Alex Saidov : 
+Alex Saidov : I love data science so much I think about it every night and day. 
 
 Alyssa Haidar : 
 
