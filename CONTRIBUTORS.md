@@ -1,1 +1,32 @@
-## Add your Name, Major, Year, and what you're excited about with Generate this semester!
+## Find your name and write a fun fact about yourself! 
+
+EXAMPLE
+Nandeenee Singh : I played the violin for 7 years (I was not good). 
+
+Aarav Raina : 
+Alex Saidov : 
+Alyssa Haidar : 
+Anusha Narang : 
+Arshia Mathur : 
+Ben Marler : 
+Ben Welsh : 
+Chelsea Kwan : 
+Deekshita Madhalam : 
+Diya Kadakia : 
+Dreshta Boghra : 
+Ellie Melzter : 
+Gordon Bie : 
+Henry Caldwell : 
+Jacob Berger : 
+Jeffrey Krapf : 
+Jerome Rodrigo : 
+Kaydence Lin : 
+Keshav Goel : 
+Melina Yang : 
+Michael Maaseide : 
+Ollie Baccay : 
+Olya Almazova : 
+Rishi Kamtam : 
+Sam Baldwin : 
+Shreya Mookherjee : 
+Sienna Hargreaves : 
